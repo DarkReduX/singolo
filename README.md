@@ -1,7 +1,7 @@
 ## Singolo
 
 ### Solution
-https://doher.github.io/singolo
+https://darkredux.github.io/singolo
 
 ### Requirements
 
